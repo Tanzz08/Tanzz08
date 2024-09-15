@@ -1,4 +1,4 @@
-## Hi there 👋
+## Haloo Semuanya 👋
 
 <!--
 **Tanzz08/Tanzz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Perkenalkan nama saya Bustanul Khair Rahman<br>
+Saya seorang mahasiswa di Universitas Islam Makassar Prodi Teknik Informatika<br>
+Saat ini saya sedang menempuh pendidikan di semester 5 dan sedang mengikuti program kampus merdeka yakni Studi Independen Bersertifikat oleh Bangkit Academy Dicoding Indonesia<br>
+jika kamu tertarik berkenalan dengan saya, silahkan ikuti akun [LinkedIn](https://www.linkedin.com/in/bustanulkhairrahman/)
+
