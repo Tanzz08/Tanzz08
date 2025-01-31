@@ -22,8 +22,8 @@ jika kamu tertarik berkenalan dengan saya, silahkan ikuti akun [LinkedIn](https:
 ## GitHub Statistic
 <p align="left">
 <a href="https://github.com/Tanzz08">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tanzz08&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tanzz08&layout=compact&theme=algolia"/>
 </a>
 </p>
 
